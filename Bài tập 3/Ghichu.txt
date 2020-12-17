@@ -2,4 +2,4 @@
 " == " là so sánh hoặc quan hệ  
 pt = '+'
 pt gán giá trị ngẫu nhiên 
-printf("Nhap phep tinh: "); khi Run => Nhap phep tinh: + a + b = 8
+printf("Nhap phep tinh: "); khi Run => Nhap phep tinh: + a + b = 
