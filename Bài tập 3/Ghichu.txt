@@ -9,4 +9,4 @@ bai tap vong lap ( for loop ) : " ++ " la toan tu tang ;link tham khao : https:/
 " -- " la toan tu giam
 " --i " tuong duong voi i = i - 1
 dem la "num" 
-for ( dem = 1; dem <=10; dem = dem + 1 hoac dem++) co the thay the so khac
+for ( dem = 1; dem <=10; dem = dem + 1 hoac dem++ hoac dem +=1) co the thay the so khac
