@@ -3,3 +3,7 @@
 pt = '+'
 pt gán giá trị ngẫu nhiên 
 printf("Nhap phep tinh: "); khi Run => Nhap phep tinh: + a + b = 
+bai tap vong lap ( for loop ) : " ++ " la toan tu tang 
+" ++i " tuong dong voi i = i + 1
+" -- " la toan tu giam
+" --i " tuong duong voi i = i - 1
