@@ -1,3 +1,4 @@
+%d la mot gia tri nao do
 " = " là toán tử gán 
 " == " là so sánh hoặc quan hệ  
 pt = '+'
@@ -7,3 +8,5 @@ bai tap vong lap ( for loop ) : " ++ " la toan tu tang
 " ++i " tuong dong voi i = i + 1
 " -- " la toan tu giam
 " --i " tuong duong voi i = i - 1
+dem la "num" 
+for ( dem = 1; dem <=10; dem = dem + 1 hoac dem++) co the thay the so khac
