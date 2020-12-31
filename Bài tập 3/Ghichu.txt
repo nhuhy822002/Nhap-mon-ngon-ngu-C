@@ -10,4 +10,4 @@ bai tap vong lap ( for loop ) : " ++ " la toan tu tang ;link tham khao : https:/
 " --i " tuong duong voi i = i - 1
 dem la "num" 
 for ( dem = 1; dem <=10; dem = dem + 1 hoac dem++ hoac dem +=1) co the thay the so khac
-statement1; có thể là printf();
+statement1; có thể là printf();   " else if "
