@@ -27,3 +27,4 @@ delta = b*b - 4*a*c
 + delta < 0 ( else ) -> vô nghiệm
 #include <math.h> ( toán học ) 
 Giaịphuongtrinhbachai(float a, float b, float c); hàm float
+(-b + sqrt delta) hàm sqrt căn bậc 2 của delta
