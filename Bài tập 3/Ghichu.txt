@@ -16,3 +16,13 @@ statement1; có thể là printf();   " else if "
 khai bao bien : int : i ; j , 
 for ( loop ) 
 - bai tap 2 : Giải phương trình bậc 2 : ax² + bx + c = 0 - Lập trình C
+ax2 + bx + c = 0 
++) a = 0 co truong hop nhu sau :
+neu b = 0 -> c = 0 => Vô nghiệm
++) trường hợp b # 0 -> bx = -c phương trình có nghiệm đơn x = - c/b
+* a # 0
+delta = b*b - 4*a*c
++ delta > 0 -> phương trình có 2 nghiệm
++ delta = 0 -> phuong trình có nghiệm kép
++ delta < 0 ( else ) -> vô nghiệm
+#include <math.h> ( toán học ) 
