@@ -11,7 +11,6 @@ int main ()
         continue;
     printf("%5d", i);
   }
-  getch();
   
 return 0;
 }
