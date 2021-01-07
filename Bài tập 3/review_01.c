@@ -7,23 +7,23 @@ int main(void) {
   printf("Nhap n = ");scanf("%d",&n);
 //in tu tieng anh ung voi so 1 den 9
 if(n == 1){
-    printf("One",n);}
+    printf("One");}
   else if(n == 2){
-    printf("Two",n);}
+    printf("Two");}
   else if(n == 3){
-    printf("Three",n);}
+    printf("Three");}
   else if(n == 4){
-    printf("Four",n);}
+    printf("Four");}
   else if(n == 5){
-    printf("Five",n);}
+    printf("Five");}
   else if(n == 6){
-    printf("Six",n);}
+    printf("Six");}
   else if(n == 7){
-    printf("Seven",n);}
+    printf("Seven");}
   else if(n == 8){
-    printf("Eight",n);}
+    printf("Eight");}
   else if(n == 9){
-    printf("nice",n);}
+    printf("nice");}
   else if(n >9){
     printf(" Greater than 9 "); 
   }
