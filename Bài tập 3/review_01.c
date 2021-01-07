@@ -1,32 +1,39 @@
 #include <stdio.h>
 
-int main(void) {
-//khai bao bien
-  int n;
-//xuat ra man hinh 
-  printf("Nhap n = ");scanf("%d",&n);
-//in tu tieng anh ung voi so 1 den 9
-if(n == 1){
-    printf("One");}
-  else if(n == 2){
-    printf("Two");}
-  else if(n == 3){
-    printf("Three");}
-  else if(n == 4){
-    printf("Four");}
-  else if(n == 5){
-    printf("Five");}
-  else if(n == 6){
-    printf("Six");}
-  else if(n == 7){
-    printf("Seven");}
-  else if(n == 8){
-    printf("Eight");}
-  else if(n == 9){
-    printf("nice");}
-  else if(n >9){
-    printf(" Greater than 9 "); 
-  }
-  
-  return 0;
+int main() {
+    
+    int n;
+    printf("Nhap n = ");scanf("%d", &n);
+    if(n == 1) {
+      printf("one");
+    }
+    else if(n == 2) {
+      printf("two");
+    }
+    else if(n == 3) {
+      printf("three");
+    }
+    else if(n == 4) {
+      printf("four");
+    }
+    else if(n == 5) {
+      printf("five");
+    }
+    else if(n == 6) {
+      printf("six");
+    }
+    else if(n == 7) {
+      printf("seven");
+    }
+    else if(n == 8) {
+      printf("eight");
+    }
+    else if(n == 9) {
+      printf("nine");
+    }
+    else if(n > 9) {
+      printf("Greater than 9");
+    }
+    
+    return 0;
 }
