@@ -7,7 +7,7 @@ int main ()
   int i;
   for(i = 1; i <= 20; i+= 1)
   {
-    if ((i == 5) || (i == 11) || (i == 15))
+    if ((i == 5) || (i == 11) || (i == 15)) // || la hoac
         continue;
     printf("%5d", i);
   }
