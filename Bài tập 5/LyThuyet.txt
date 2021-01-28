@@ -1,0 +1,19 @@
+Phần: KIẾN THỨC
+
+a) Khái niệm : Biến là một ô nhớ lưu trữ dữ liệu và có thể được thay đổi trong chương trình
+- Cú pháp khai báo biến là :
+ kieudulieu tenbien; 
+ hay  kieudulieu tenbien = giatri;
+ VD: int(là kieuduieu) a (là tenbien có thể số hoặc chữ tùy người lập trình đặt) = 1 (là giá trị);
+
+b) Khái niệm biến toàn cục và biến cục bộ trong ngôn ngữ C.
+- Biến toàn cục là biến được khai báo bên ngoài các hàm kể cả hàm main và được sử dụng cho mọi hàm trong chương trình cho đến khi chương trình dừng lại.
+- Biến cục bộ (hay biến địa phương) là biến được khai báo trong một hàm, khối lệnh thì chỉ có thể được sử dụng trong hàm, khối lệnh đó.
+VD: biến đếm vòng lặp for 
+
+c) Khái niệm và phân loại hàm trong ngôn ngữ C.
+Hàm là 1 sự chia nhỏ của chương trình hay một khối lệnh được thực hiện 1 nhiệm vụ cụ thể nào đó (như tính tổng,...)
+- Phân loại hàm:
+  có 2 loại :
+ + Hàm thư viện chuẩn : là các hàm được dựng sẵn và thường được lưu trong các tập tin header(.h), các hàm được gộp vào chương chình thông qua lệnh #include
+ + hàm do người lập trình định nghĩa : nó được định nghĩa theo yêu cầu của người dùng.
