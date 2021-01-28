@@ -4,7 +4,7 @@ a) Khái niệm : Biến là một ô nhớ lưu trữ dữ liệu và có thể
 - Cú pháp khai báo biến là :
  kieudulieu tenbien; 
  hay  kieudulieu tenbien = giatri;
- VD: int(là kieuduieu) a (là tenbien có thể số hoặc chữ tùy người lập trình đặt) = 1 (là giá trị);
+ VD: int là kieu_du_ieu , a là ten_bien có thể số hoặc chữ tùy người lập trình đặt = 1 (là giá trị);
 
 b) Khái niệm biến toàn cục và biến cục bộ trong ngôn ngữ C.
 - Biến toàn cục là biến được khai báo bên ngoài các hàm kể cả hàm main và được sử dụng cho mọi hàm trong chương trình cho đến khi chương trình dừng lại.
