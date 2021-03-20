@@ -1,0 +1,6 @@
+Phần 1 : kiến thức 
+Khái niệm : Biến là một ô nhớ lưu trữ dẽ liệu và có thể thay đổi trong chương trình. Các biến được khai báo bằng cách đặt tên tên biến vào phần khai báo biến ở đầu chương trình , sau từ khóa Var.
+Tại sao phải dùng biến vì : 
++ Mỗi biến có một kiểu dữ liệu nhất định
++ Lưu trữ dữ liệu và tái sử dụng
++ Biến trong ngôn ngữ C phân biệt chữ hoa , chữ thường( vd ab và AB hoặc Ab là khác nhau )
