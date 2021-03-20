@@ -4,3 +4,8 @@ Tại sao phải dùng biến vì :
 + Mỗi biến có một kiểu dữ liệu nhất định
 + Lưu trữ dữ liệu và tái sử dụng
 + Biến trong ngôn ngữ C phân biệt chữ hoa , chữ thường( vd ab và AB hoặc Ab là khác nhau )
+- Quy tắc đặt tên cho biến : 
++ Tên biến phải bắt đầu bằng chữ cái thường hoặc gạch dưới ( _ )
++ Tên biến mang một ý nghĩa nào đó , dễ hiểu , ngắn gọn 
++ Tên biến dài hơn một từ thì chữ cái từ tiếp theo sẽ viết hoa
++ Tên biến không trùng với các key word trong thư viện của C
